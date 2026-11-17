@@ -67,9 +67,9 @@ The following hosted platforms and commercial SaaS databases provide graph stora
 
 ## 💻 Open-Source Software & Toolkits
 
-Open-source graph databases, semantic ontology frameworks, and GraphRAG pipelines allow legal tech engineers to build sovereign, air-gapped contract intelligence platforms without vendor lock-in. Entries are sorted in descending order of GitHub star count. 🌟
+Open-source graph databases, semantic ontology frameworks, and GraphRAG pipelines allow legal tech engineers to build sovereign, air-gapped contract intelligence platforms without vendor lock-in. Entries are sorted in descending order of GitHub Stars_Count. 🌟
 
-| Project & Repository | ⭐ GitHub Stars | 🛠️ Primary Language / Ecosystem | 📖 Description & Legal Contract Graph Use Case |
+| Project & Repository | ⭐ GitHub_Stars | 🛠️ Primary Language / Ecosystem | 📖 Description & Legal Contract Graph Use Case |
 | :--- | :--- | :--- | :--- |
 | [Microsoft GraphRAG](https://github.com/microsoft/graphrag) | [![Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers) | Python | Modular graph-based Retrieval-Augmented Generation (RAG) system using LLMs to extract entity networks and detect community clusters across voluminous contract corpora and legal agreements. |
 | [SurrealDB](https://github.com/surrealdb/surrealdb) | [![Stars](https://img.shields.io/github/stars/surrealdb/surrealdb?style=social&color=white)](https://github.com/surrealdb/surrealdb/stargazers) | Rust | Multi-model database integrating graph relations, document storage, and vector search with SurrealQL, enabling direct pointer-based traversals across contract definitions and clause dependencies. |
