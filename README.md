@@ -17,6 +17,10 @@
   <strong>🚀 A curated directory of software, enterprise cloud platforms, graph databases, semantic ontologies, and GraphRAG toolkits for building and querying Legal &amp; Contract Knowledge Graphs.</strong>
 </p>
 
+<p align="center">
+  <em>Discover premier graph technologies for legal tech, contract lifecycle management (CLM), regulatory compliance, automated clause extraction, entity resolution, and AI-powered GraphRAG architectures.</em>
+</p>
+
 ---
 
 </div>
@@ -101,23 +105,25 @@ When building a Knowledge Graph for legal agreements and contract lifecycle inte
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Legal-Contract-Knowledge-Graph&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Legal-Contract-Knowledge-Graph&Date)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta0007/Awesome-Legal-Contract-Knowledge-Graph&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Legal-Contract-Knowledge-Graph&type=date&legend=top-left)
 
 ---
 
 ## 💖 Support & Community
 
-If you find this curated legal tech directory helpful:
+Thank you so much for exploring and supporting this curated legal tech directory! 🙏 Building and maintaining comprehensive resources for graph databases, legal ontologies, and contract intelligence takes dedicated effort and research.
 
-- ⭐ **Star this repository** to show your support and help others discover it!
-- 💬 **Join our community**: Connect on [Discord](https://discord.gg/jc4xtF58Ve) to discuss LegalTech, GraphRAG, and knowledge graphs.
-- ☕ **Sponsor & Donate**: Support ongoing curation and open-source research via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+If you find this repository valuable:
+- ⭐ **Star this repository** to help others discover it across GitHub!
+- 🍴 **Fork it** to customize and integrate your own contract knowledge graph workflows.
+- 📢 **Share it** with colleagues, legal engineering communities, and graph researchers.
+- ☕ **Buy me a coffee & sponsor**: If this project helped your work or research, consider supporting through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your sponsorship directly fuels ongoing curation, maintenance, and open-source legal tech benchmarking!
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are warmly welcomed! Please read the contribution guidelines:
+Contributions are warmly welcomed! Please read the contribution guidelines: 🤝
 
 1. Fork the repository and create your feature branch (`git checkout -b feature/cool-graph-tool`).
 2. Verify that your addition has relevant utility for legal, contract, or enterprise knowledge graph applications.
